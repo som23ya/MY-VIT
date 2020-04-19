@@ -13,4 +13,4 @@ The students would also be provided with a login portal for personal diary.
 A forum, “Chatbox” has been fashioned for the users too.
 
 Initially the website and the app contain limited data but it can be extended further by adding more information and the number of users.
-![](https://github.com/som23ya/MY-VIT-/blob/master/pp.jpg | width=100)
+<img src="https://github.com/som23ya/MY-VIT-/blob/master/pp.jpg"  >
